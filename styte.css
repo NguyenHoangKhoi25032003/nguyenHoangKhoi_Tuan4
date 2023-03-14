@@ -1,0 +1,194 @@
+#wapper
+{
+    display: flex;
+    justify-content: center;
+}
+#container
+{
+    display: flex;
+    justify-content: space-between;
+    width: 1440px;
+}
+#left
+{
+    width: 90px;
+    height: 870px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+#left_above
+{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+}
+#item
+{
+    margin-top: 40px;
+    width: 32px;
+}
+#left_below
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+#setting
+{
+    width: 44px;
+    margin-top: 36px;
+}
+#avatar
+{
+    width: 44px;
+}
+#center
+{
+    width: 910px;
+    display: flex;
+   
+   
+}
+#right
+{
+    width: 440px;
+    display: flex;
+    flex-direction: column;
+}
+#Internal
+{
+    display: flex;
+    background-color: red;
+    border-radius: 3px;
+    width: 80px;
+    justify-content: center;
+}
+#userImg
+{
+    
+    width: 10px;
+    
+    
+}
+#center_container
+{
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+
+}
+#center_P
+{
+    display: flex;
+    width: 900px;
+    justify-content: space-between;
+    margin-top: 10px;
+    
+    
+}
+#endMetting{
+    display: flex;
+    width: 500px;
+    margin-left: 150px;
+    margin-top: 50px;
+    justify-content: space-between;
+    
+    
+}
+
+#center_C
+{
+    width: 100%;
+    
+}
+#itemImg
+{
+    border-radius: 10px;
+}
+#imgCenter
+{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 900px;
+}
+#EndMe{
+    width: 100px;
+    display: flex;
+    background-color: rgb(133, 18, 18);
+    border-radius: 3px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#right_center
+{
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+}
+#img_avatar
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+#title_mic
+{
+   
+    display: flex;
+   justify-content: space-around;
+   
+    margin-left: 20px;
+}
+#img_mic
+{
+    display: flex;
+   flex-direction: row;
+}
+#mic
+{
+    width: 50px;
+}
+#img_mic1
+{
+    width: 20px;
+    height: 20px;
+}
+#bacham
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+}
+#right_Chat
+{
+    display: flex;
+    flex-direction: column;
+}
+#Chat_title
+{
+    margin-top: 30px;
+}
+#dc
+{
+    display: flex;
+    margin-left: 20px;
+}
+#lorem
+{
+    margin-left: 70px;
+    background-color: rgb(237, 230, 230);
+}
+#type
+{
+    display: flex;
+    justify-content: center;
+}
